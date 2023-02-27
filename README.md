@@ -1,5 +1,4 @@
 <div id="header" align="center">
-    <img src="https://i.pinimg.com/564x/dd/13/bc/dd13bcc6005a9af92b310ee13e81d0b8.jpg" width="100" />
     <h1 align="center">Hi 🙋‍♂️, I'm pabl1ku❕ </h1>
     <h3 align="center">Web application development from Spain, I like to create and work on projects. Learning new languages. </h3>
 </div>
