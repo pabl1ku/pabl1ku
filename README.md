@@ -1,15 +1,7 @@
 <div id="header" align="center">
-    <img src="https://i.pinimg.com/564x/dd/13/bc/dd13bcc6005a9af92b310ee13e81d0b8.jpg" width="400" />
+    <img src="https://i.pinimg.com/564x/dd/13/bc/dd13bcc6005a9af92b310ee13e81d0b8.jpg" width="100" />
     <h1 align="center">Hi 🙋‍♂️, I'm pabl1ku❕ </h1>
     <h3 align="center">Web application development from Spain, I like to create and work on projects. Learning new languages. </h3>
-</div>
-
----
-
-<div id="badges" align="center">
-    <a href="paypal.me/Kenj1bush" target="_blank">
-        <img src="https://companieslogo.com/img/orig/PYPL-3570673e.png?t=1633695449" width="50"
-        alt="Paypal Badge" />
 </div>
 
 ---
@@ -21,6 +13,8 @@
 - 👾 Discord: **pabl1ku#1490**
 
 - 📖 I'm currently learning **JavaScript, Python, React.js and PHP**
+    
+- 💳 paypal.me/Kenj1bush
 
 ---
 
