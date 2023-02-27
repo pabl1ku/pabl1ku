@@ -1,16 +1,54 @@
-### Hi there 👋
+<div id="header" align="center">
+    <img src="https://i.pinimg.com/564x/dd/13/bc/dd13bcc6005a9af92b310ee13e81d0b8.jpg" width="400" />
+    <h1 align="center">Hi 🙋‍♂️, I'm pabl1ku❕ </h1>
+    <h3 align="center">Web application development from Spain, I like to create and work on projects. Learning new languages. </h3>
+</div>
 
-<!--
-**pabl1ku/pabl1ku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div id="badges" align="center">
+    <a href="paypal.me/Kenj1bush" target="_blank">
+        <img src="https://companieslogo.com/img/orig/PYPL-3570673e.png?t=1633695449" width="50"
+        alt="Paypal Badge" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About me : 
+
+- ✉️ How to reach me **MCPabliku@gmail.com**
+
+- 👾 Discord: **pabl1ku#1490**
+
+- 📖 I'm currently learning **JavaScript, Python, React.js and PHP**
+
+---
+
+<div align="left">
+    <h3> 🔨 Languages and Tools:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="PYTHON" alt="PYTHON" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="sql" alt="sql" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
+    </div>
+</div>
+
+---
+
+### 📊 My Stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=pabl1ku&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+![pabl1ku's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabl1ku&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabl1ku&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
