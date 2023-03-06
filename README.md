@@ -15,7 +15,7 @@
 
 - 👾 Discord: **pabl1ku#1490**
 
-- 📖 I'm currently learning **JavaScript, Python, React.js and PHP**
+- 📖 I'm currently learning **Java, Python, React.js and PHP**
     
 - 💳 paypal.me/Kenj1bush
 
