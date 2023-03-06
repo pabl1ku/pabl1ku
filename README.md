@@ -1,17 +1,17 @@
 <div id="header" align="center">
-    <h1 align="center">Hi 🙋‍♂️, I'm pabl1ku❕ </h1>
-    <h3 align="center">Web application development from Spain, I like to create and work on projects. Learning new languages. </h3>
-    <p align="center"> 
-  Visitor count<br>
+    <img src="https://i.pinimg.com/originals/37/4a/9c/374a9ce6182b7a8aafd8c6ea6b698ff3.gif">
+    <h1 align="center"> 🗨 Hi , I'm pabl1ku! </h1>
+    <h3 align="center">Web application development. I like to create and work on projects. Learning new languages. </h3>
+   
+   Visitor count<br>
   <img src="https://profile-counter.glitch.me/pabl1ku/count.svg" />
-</p>
 </div>
 
 ---
 
 ### 👨‍💻 About me : 
 
-- ✉️ How to reach me **MCPabliku@gmail.com**
+- ✉️ How to reach me: **MCPabliku@gmail.com**
 
 - 👾 Discord: **pabl1ku#1490**
 
@@ -38,7 +38,7 @@
 ### 📊 My Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pabl1ku&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
+    
 ![pabl1ku's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabl1ku&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabl1ku&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
