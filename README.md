@@ -19,6 +19,8 @@
     
 - 💳 paypal.me/Kenj1bush
 
+- <a href="https://www.youtube.com/@kazsuner">Youtube Channel </a>
+
 ---
 
 <div align="left">
