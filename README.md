@@ -13,7 +13,7 @@
 
 - ✉️ How to reach me: **pablikucoder@gmail.com**
 
-- 👾 Discord: **pabl1ku#1490**
+- 👾 Discord: 
 
 - 📖 I'm currently learning **Java, Python, React.js and PHP**
     
