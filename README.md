@@ -9,19 +9,6 @@
 
 ---
 
-### 👨‍💻 About me : 
-
-- ✉️ How to reach me: **pablikucoder@gmail.com**
-
-- 👾 Discord: 
-
-- 📖 I'm currently learning **Java, Python, React.js and PHP**
-    
-- 💳 paypal.me/Kenj1bush
-
-- <a href="https://www.youtube.com/@kazsuner">Youtube Channel </a>
-
----
 
 <div align="left">
     <h3> 🔨 Languages and Tools:</h3>
